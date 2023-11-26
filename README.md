@@ -14,8 +14,7 @@ The [first section](#Preparations) guides through the setup account setup. Pleas
 ## Preparations 
 
 ### Create a Google account
-#TODO
-
+You can use your existing Google account if you already have one. If not, please visit [this Google support page](https://support.google.com/accounts/answer/27441?hl=en) and follow the instructions to create a new  account.
 
 ### Sign up for Google Earth Engine
 1. Visit the [GEE registration page](https://code.earthengine.google.com/register) and sign in with your Google account.
