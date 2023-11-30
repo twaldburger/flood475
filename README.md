@@ -7,7 +7,7 @@ For this exercise, you  will need:
 - access to Google Earth Engine, and
 - an active internet connection.
 
-The [first section](#Preparations) guides through the account setup. Please complete all 4 tasks in [Preparations](#Preparations) before 11.12.13.
+The [first section](#Preparations) guides through the account setup. Please complete all 4 tasks in [Preparations](#Preparations) before 11.12.2023.
 
 ---
 
