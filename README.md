@@ -1,9 +1,9 @@
-# Flood modelling with Google Earth Engine
+# GEO475 - Flood prediction with Google Earth Engine
 
 ## About this exercise
-This is not a coding exercise and you will not be required to write code yourself. However, coding experience is benefitial as you will be running Python notebooks. The goals of the exercise are that you:
+The goals of the exercise are that you:
 - get an introduction to ML-based flood modelling, 
-- gain a first impression of Google Earth Engine, and
+- gain a first impression of Google Earth Engine and geemap, and
 - get a high-level understanding of how a simple flood model is trained and applied using Python.
 
 For this exercise, you  will need:
@@ -12,7 +12,7 @@ For this exercise, you  will need:
 - access to Google Earth Engine, and
 - an active internet connection.
 
-The [next section](#Preparations) guides through the account setup which takes about 20 minutes. Please complete all 4 tasks in [Preparations](#Preparations) before 11.12.2023.
+The [next section](#Preparations) guides through the account setup which takes about 20 minutes. Please complete all 4 tasks in [Preparations](#Preparations) before 16.12.2024.
 
 ---
 
@@ -38,10 +38,6 @@ You can use your existing Google account if you already have one. If not, please
 2. Sign-in with your Google account by clicking on _Sign in_ in the top-right corner.
 
 ### Test your setup
-1. Sign in [to Google Colab.](https://colab.research.google.com/) and follow the steps below. The screenshot below also represents steps 2-5.  
-![How to open a notebook from GitHub in Google Colab](img/colab_open_from_github.png)
-2. Choose _GitHub_ in the _Open notebook_-window.
-3. Enter the following GitHub URL: _https://github.com/twaldburger/flood475_.
-4. Press on the magnifying glass to search the repository for notebooks.
-5. Select the notebook named _01_Connecting_to_GEE.ipynb_.  
-6. Go through the notebook and run each cell (find step-by-step instructions in the notebook). Colab will warn you that the notebook was not created by Google - please confirm by clicking _Run anyway_. If you can run all cells without getting any errors, you are all set up. 
+1. Open [geo475_flood_prediction_in_gee.ipynb](https://github.com/twaldburger/flood475/blob/master/geo475_flood_prediction_in_gee.ipynb) here in GitHub.
+3. Click on _Open in Colab_ on the very top of the notebook.
+4. Update the PROJECT_ID- variable in the first code cell with your projec id and run the first code cell. You are good to go if the cell runs without raising an exception.
