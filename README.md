@@ -40,4 +40,4 @@ You can use your existing Google account if you already have one. If not, please
 ### Test your setup
 1. Open [geo475_flood_prediction_in_gee.ipynb](https://github.com/twaldburger/flood475/blob/master/geo475_flood_prediction_in_gee.ipynb) here in GitHub.
 3. Click on _Open in Colab_ on the very top of the notebook.
-4. Update the PROJECT_ID- variable in the first code cell with your projec id and run the first code cell. You are good to go if the cell runs without raising an exception.
+4. Update the PROJECT_ID- variable in the first code cell with your project id and run the first code cell. You are good to go if the cell runs without raising an exception.
